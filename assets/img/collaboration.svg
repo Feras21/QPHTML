@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="84.909" height="82.008" viewBox="0 0 84.909 82.008">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: rgba(0,0,0,0);
+      }
+
+      .cls-1, .cls-3 {
+        stroke: #045b9b;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 2px;
+      }
+
+      .cls-2, .cls-3 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <g id="Group_405" data-name="Group 405" transform="translate(-425 -2651)">
+    <g id="Group_346" data-name="Group 346" transform="translate(440.287 2652)">
+      <path id="Subtraction_23" data-name="Subtraction 23" class="cls-1" d="M34.215,51.558H18.985c.016-.24.025-.492.025-.75A11.108,11.108,0,0,0,4.657,40.193L0,25.857A11.165,11.165,0,0,0,7.913,15.223,11.048,11.048,0,0,0,6.049,9.065L18.522,0a11.064,11.064,0,0,0,8.609,4.09A11.064,11.064,0,0,0,35.739,0L48.264,9.1a11.1,11.1,0,0,0,6.008,16.736L49.5,40.534A11.1,11.1,0,0,0,34.19,50.807c0,.248.008.5.025.748Z" transform="translate(0 18.102)"/>
+      <path id="Path_259" data-name="Path 259" class="cls-2" d="M391.755,568.42a11.1,11.1,0,1,0-11.1,11.1,11.1,11.1,0,0,0,11.1-11.1" transform="translate(-353.526 -557.322)"/>
+    </g>
+    <g id="Group_404" data-name="Group 404" transform="translate(426 2652)">
+      <path id="Path_260" data-name="Path 260" class="cls-3" d="M391.755,568.42a11.1,11.1,0,1,0-11.1,11.1A11.1,11.1,0,0,0,391.755,568.42Z" transform="translate(-339.239 -557.322)"/>
+      <path id="Path_262" data-name="Path 262" class="cls-3" d="M420.33,589.319a11.1,11.1,0,1,0-11.1,11.1A11.1,11.1,0,0,0,420.33,589.319Z" transform="translate(-337.421 -555.992)"/>
+      <path id="Path_264" data-name="Path 264" class="cls-3" d="M363.252,589.319a11.1,11.1,0,1,0-11.1,11.1A11.1,11.1,0,0,0,363.252,589.319Z" transform="translate(-341.052 -555.992)"/>
+      <path id="Path_266" data-name="Path 266" class="cls-3" d="M408.826,622.774a11.1,11.1,0,1,0-11.1,11.1A11.1,11.1,0,0,0,408.826,622.774Z" transform="translate(-338.152 -553.864)"/>
+      <path id="Path_268" data-name="Path 268" class="cls-3" d="M373.686,622.774a11.1,11.1,0,1,0-11.1,11.1A11.1,11.1,0,0,0,373.686,622.774Z" transform="translate(-340.388 -553.864)"/>
+    </g>
+  </g>
+</svg>

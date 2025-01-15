@@ -1,0 +1,40 @@
+﻿.country-according .accordion .card{
+	margin: 1rem 0;
+	border: none;
+}
+.country-according .card-header{
+border:none;
+padding: 0;
+border-radius: 0.5rem;
+}
+.country-according .card-header .btn.btn-link{
+border:none;
+background-color: #155199;
+font-size: 20px;
+font-weight: bold;
+color: white;
+    padding: 15px 10px;
+    border-radius: 0.5rem;
+    margin-bottom: 0.5rem;
+    cursor: pointer;
+}
+.country-according #collapseAsia .btn.btn-link,
+.country-according #collapseAfrica .btn.btn-link,
+.country-according #collapseEurope .btn.btn-link
+{
+	font-size: 16px;
+    font-weight: 500;
+    padding: 10px;
+    background-color: #44B388;
+}
+.country-according  .card-body{
+	padding: 0.5rem 1rem;
+
+}
+.country-according  #collapseAsia .card-body .card-body  .btn.btn-link,
+.country-according  #collapseAfrica .card-body .card-body  .btn.btn-link,
+.country-according  #collapseEurope  .card-body .card-body  .btn.btn-link{
+	background-color: lightgray;
+	color: black;
+	font-size: 14px;
+}
